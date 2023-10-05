@@ -1,5 +1,5 @@
-# Welcome to my Github
-- 👋 Hi, I’m @YuriCicconi
+# Hello, welcome to my GitHub
+- 👋 I’m YuriCicconi
 - 👀 I'm interested in learning new skills and further developing the ones I already have
 - 🌱 I’m currently studying backend development at Cubos Academy
 - 💞️ I'm looking for new opportunities to grow as a developer, whether it's in open-source projects, volunteering, or an opportunity to start my career
@@ -8,7 +8,7 @@
 ### Some of the technologies I work with
 - 💻 Programming Languages: Javascript, Java and Python
 - 🔨 Frameworks: Node.js and Spring
-- 🔒 Database: MySql and PostgreSQL
+- 🔒 Database: MySql and PostgresSQL
 
 <!---
 YuriCicconi/YuriCicconi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
