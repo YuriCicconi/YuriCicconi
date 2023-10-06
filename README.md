@@ -1,5 +1,5 @@
 # Hello, welcome to my GitHub
-- 👋 I’m YuriCicconi
+- 👋 I’m Yuri Cicconi
 - 👀 I'm interested in learning new skills and further developing the ones I already have
 - 🌱 I’m currently studying backend development at Cubos Academy
 - 💞️ I'm looking for new opportunities to grow as a developer, whether it's in open-source projects, volunteering, or an opportunity to start my career
