@@ -8,7 +8,7 @@
 ### Some of the technologies I work with
 - 💻 Programming Languages: Javascript, Java and Python
 - 🔨 Frameworks: Node.js and Spring
-- 🔒 Database: MySql and PostgresSQL
+- 🔒 Database: MySql and PostgreSQL
 
 <!---
 YuriCicconi/YuriCicconi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
